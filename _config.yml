@@ -5,3 +5,5 @@ plugins:
 title: [PoliceMP Connect]
 description: [Connecting tool for PoliceMP]
 show_downloads: "true"
+
+theme: jekyll-theme-cayman
